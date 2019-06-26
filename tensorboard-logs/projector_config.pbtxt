@@ -1,8 +1,8 @@
 embeddings {
   tensor_name: "features:0"
-  metadata_path: "./tensorboard-logs/metadata.tsv"
+  metadata_path: "metadata.tsv"
   sprite {
-    image_path: "./tensorboard-logs/sprites.png"
+    image_path: "sprites.png"
     single_image_dim: 64
     single_image_dim: 64
   }
